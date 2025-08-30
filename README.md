@@ -11,3 +11,6 @@ Tələbə məlumatlarını cədvəl formatında idarə etmək üçün hazırlanm
 - C#
 - .NET
 - SQL Server
+
+## Layihə Haqqında
+Bu C# tətbiqi tələbə məlumatlarını cədvəl formatında idarə etməyə imkan verir. Layihənin işləmə prinsipləri və izahı üçün əlavə sənəd `'Student Table' layihəsi.pptx` faylında verilmişdir.
