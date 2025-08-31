@@ -1,5 +1,5 @@
 # StudentTable
-Tələbə məlumatlarını cədvəl formatında idarə etmək üçün hazırlanmış sadə C# tətbiq
+Tələbə məlumatlarını cədvəl formatında idarə etmək üçün hazırlanmış C# tətbiq
 
 ## Xüsusiyyətlər
 - Tələbə məlumatlarının əlavə edilməsi
